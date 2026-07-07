@@ -1,7 +1,10 @@
-x = undefined
-y = null
+var x = undefined
+var y = null
+var z = true
+var a = false
 
-console.log(x,y);
+console.log(x,y, z, a);
+
 
 
 console.log("hello world");
