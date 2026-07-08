@@ -33,11 +33,11 @@ let myBio = {
 
 console.log(myBio)
 
-a = "javascript";
-b = 2026;
-c = true;
-d = undefined
-e = null
+let a = "javascript";
+let b = 2026;
+let c = true;
+let d = undefined
+let e = null
 
 console.log(typeof a)
 console.log(typeof b)
