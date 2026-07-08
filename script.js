@@ -40,3 +40,4 @@ name["age"] = name["age"] + 1
 console.log(name)
 console.log(typeof name.student)
 console.log(typeof name.age)
+console.log(typeof name)
