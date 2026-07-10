@@ -125,5 +125,29 @@
 // d **=4;
 // console.log(d);
 
+// comparison operators
+// let a = 12;
+// let b = 10;
+// console.log(a == b);
+// console.log(a > b);
+// console.log(a < b);
+// console.log(a != b);
+// console.log(a <= b);
+// console.log(a >= b);
+// console.log(a === b);
+// console.log(a !== b);
+
+
+//logical operators
+// let a = 12;
+// let b = 13;
+// console.log((a>b) || (a<b));
+// console.log((a==b) && (b ==a));
+// console.log((a!=b) != (b!=a));
+
+
+let a = "zainab";
+let b = "aamir";
+console.log(a + b);
 
 
