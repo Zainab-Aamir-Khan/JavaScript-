@@ -40,7 +40,7 @@ else{
     console.log("all are fine");
 }
 
-let marks = 20;
+let marks = 70;
 
 if (marks == 100){
     if (marks >= 80 ){
